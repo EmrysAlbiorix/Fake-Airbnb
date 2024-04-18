@@ -1,0 +1,22 @@
+/* Add any additional style as necessary*/
+  
+.modal-body {
+    display: flex;
+  }
+  
+.row {
+	margin-top: 0;
+}
+
+.modal-footer{
+    display:block;
+}
+
+.card {
+	img{
+		border-top-left-radius: 5px;
+    	border-top-right-radius: 5px;
+    	border-bottom-left-radius: 0;
+	    border-bottom-right-radius: 0;
+	}
+}
